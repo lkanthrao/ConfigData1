@@ -15,3 +15,10 @@ eureka:
 ---
 newConfig:
  data: Hi All New Message From Pradeep
+ 
+spring:
+ cloud: 
+  stream: 
+   bindings: 
+    inventoryQ:
+     destination: inventoryQ
