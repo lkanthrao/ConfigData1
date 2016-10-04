@@ -14,7 +14,7 @@ eureka:
 
 ---
 newConfig:
- data: Hi All New Message From Pradeep
+ data: Hi All New Message From Kanth
  
 spring:
  cloud: 
