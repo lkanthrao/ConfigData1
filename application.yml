@@ -3,7 +3,7 @@ spring:
   cloud:
     consul:
       host: localhost
-      port: 8600
+      port: 8500
 
 ---
 # Items that apply to ALL profiles:
